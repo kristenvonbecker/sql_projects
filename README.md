@@ -1,1 +1,3 @@
-# sql_projects
+# SQL Projects
+
+A random assortment of short projects using SQL...
