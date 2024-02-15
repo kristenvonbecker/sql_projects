@@ -1,6 +1,6 @@
 # Intro to SQLite
 
-I found this notebook online and started working on it to brush up on SQL queries. The notebook appears to be part of a [SQL workshop](https://tdmdal.github.io/mma-sql/index.html) offered by the Rotman Research Node 
+This notebook is adapted from [one](https://colab.research.google.com/github/tdmdal/mma-sql/blob/master/docs/SQL_Intro_Sqlite.ipynb) which appears to be part of a [SQL workshop](https://tdmdal.github.io/mma-sql/index.html) offered by the Rotman Research Node 
 at the University of Toronto. It uses the [Northwind Traders](https://en.wikiversity.org/wiki/Database_Examples/Northwind) database.
 
-I am not the author of this notebook, but nealy all of the SQL code is mine (all but about 10 cells near the end). The notebook is easiest to view (and run) in Colab.
+I am not the author of this notebook, but I have made very significant additions (to the SQL code) and improvements (to the formatting and documetation) throughout. The notebook is easiest to view in Colab, which requires a Google account.
